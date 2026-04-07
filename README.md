@@ -1,2 +1,2 @@
 # Clase18-MT
-Preba de proyecto
+Prueba de proyecto
